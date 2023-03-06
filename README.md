@@ -6,4 +6,4 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
 
 <img width="400" src="https://i.ibb.co/zPXGT5j/vuforia-unity-logo.png" alt="vuforia-unity-logo" border="0" />
 
-https://i.ibb.co/5WnXnYd/Untitled.gif
+<img width="400" src="https://i.ibb.co/5WnXnYd/Untitled.gif" border="0" />
