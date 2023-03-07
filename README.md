@@ -18,6 +18,6 @@ https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (ar
 
 <img src="https://i.ibb.co/T00xSB4/Target.png" alt="Target" border="0">
 
-| Target
-
 <img src="https://i.ibb.co/9VxfJ6T/target-mapeada.png" alt="target-mapeada" border="0">
+
+| A Figura acima mostra o mapeamento para realidade aumentada.
