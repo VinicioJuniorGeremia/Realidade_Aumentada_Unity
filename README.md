@@ -31,6 +31,8 @@ https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (ar
 **O script para rotacionar o Cubo**
 
 ```javascript
+
+<img src="https://i.ibb.co/y60N0yw/gif2-gif.gif" alt="gif2-gif" border="0">
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
