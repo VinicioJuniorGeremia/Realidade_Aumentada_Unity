@@ -32,7 +32,7 @@ Para incluir, basta selecionar a imagem baixada e arrastar para dentro do Unity.
 
 Após criar a imagem target, adicione um cubo em cima dela, clicando com a parte direita do mouse:
 
-<img width="450" src="https://i.ibb.co/bHLkcNj/Screenshot-1.png" alt="Screenshot-1" border="0">
+<img src="https://i.ibb.co/bHLkcNj/Screenshot-1.png" alt="Screenshot-1" border="0">
 
 **O script para rotacionar o Cubo, está presente abaixo**
 
