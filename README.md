@@ -49,4 +49,6 @@ public class rotate : MonoBehaviour
     }
 }
 ```
-**Basta escolher o eixo de rotação e a módulo da posição nesse caso:**
+**Para definir a velocidade da rotação, dentro do unity, adicione um script com o texto acima e nas opções: X, Y, Z, coloque a velocidade desejada**
+
+<img src="https://i.ibb.co/Dg1PZmd/rota-o.png" alt="rota-o" border="0">
