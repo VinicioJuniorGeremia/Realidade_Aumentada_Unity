@@ -6,7 +6,14 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
 
 <img width="450" src="https://i.ibb.co/zPXGT5j/vuforia-unity-logo.png" alt="vuforia-unity-logo" border="0" />
 
+(Colocar GIF)
+
 Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fazer o download do Vuforia Engine.
 
-É possível importar o Vulforia para o Unity.
+| É possível importar o Vulforia para o Unity.
 
+https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (arrumar)
+
+| Para registrar o seu alvo (target) e seus recursos (features), é preciso criar uma conta e obter uma licença. Depois disso, faça o download do banco de dados que        | contém o seu alvo e seus recursos.
+
+<img src="https://i.ibb.co/T00xSB4/Target.png" alt="Target" border="0">
