@@ -28,7 +28,7 @@ https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (ar
 
 <img src="https://i.ibb.co/X8rGZ9n/img-unity.png" alt="img-unity" border="0">
 
-```javascript```
+```javascript
 
 using System.Collections;
 using System.Collections.Generic;
@@ -48,4 +48,4 @@ public class rotate : MonoBehaviour
     }
 }
 
-```javascript```
+```
