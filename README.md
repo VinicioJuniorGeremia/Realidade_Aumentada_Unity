@@ -49,3 +49,4 @@ public class rotate : MonoBehaviour
     }
 }
 ```
+**Basta escolher o eixo de rotação e a módulo da posição nesse caso:**
