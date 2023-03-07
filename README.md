@@ -17,3 +17,7 @@ https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (ar
 | Para registrar o seu alvo (target) e seus recursos (features), é preciso criar uma conta e obter uma licença. Depois disso, faça o download do banco de dados que        | contém o seu alvo e seus recursos.
 
 <img src="https://i.ibb.co/T00xSB4/Target.png" alt="Target" border="0">
+
+| Target
+
+<img src="https://i.ibb.co/9VxfJ6T/target-mapeada.png" alt="target-mapeada" border="0">
