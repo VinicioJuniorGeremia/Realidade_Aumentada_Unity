@@ -10,7 +10,7 @@ Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fa
 
 | É possível importar o Vulforia para o Unity.
 
-[aaa](https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884)
+[Donwload Vulforia](https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884)
 
 | Para registrar o seu alvo (target) e seus recursos (features), é preciso criar uma conta e obter uma licença. Depois disso, faça o download do banco de dados que      contém o seu alvo e seus recursos.
 
