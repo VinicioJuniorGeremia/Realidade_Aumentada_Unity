@@ -21,3 +21,9 @@ https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (ar
 <img src="https://i.ibb.co/9VxfJ6T/target-mapeada.png" alt="target-mapeada" border="0">
 
 | A Figura acima mostra o mapeamento para realidade aumentada.
+
+**Monte sua cena:**
+
+| Incluindo o Imagem Target e a Câmera AR
+
+<img src="https://i.ibb.co/X8rGZ9n/img-unity.png" alt="img-unity" border="0">
