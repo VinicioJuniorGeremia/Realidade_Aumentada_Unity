@@ -12,7 +12,7 @@ Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fa
 
 https://developer.vuforia.com/user/login?url=/downloads/sdk%3F_%3D1678117884 (arrumar)
 
-| Para registrar o seu alvo (target) e seus recursos (features), é preciso criar uma conta e obter uma licença. Depois disso, faça o download do banco de dados que        | contém o seu alvo e seus recursos.
+| Para registrar o seu alvo (target) e seus recursos (features), é preciso criar uma conta e obter uma licença. Depois disso, faça o download do banco de dados que      contém o seu alvo e seus recursos.
 
 Após criar registrar uma licença no site da Vulforia e criar um banco de dados , faça o donwload do mesmo. Dentro do Unity, selecione a target e vincule o assinatura de licença e o banco de dados baixado.
 
