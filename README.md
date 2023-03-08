@@ -6,7 +6,7 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
 
 <img width="450" src="https://i.ibb.co/zPXGT5j/vuforia-unity-logo.png" alt="vuforia-unity-logo" border="0" />
 
-<img src="https://i.ibb.co/y60N0yw/gif2-gif.gif" alt="gif2-gif" border="0" />
+<img src="https://i.ibb.co/P1rQJ3g/gif-do-caramba.gif" alt="gif-do-caramba" border="0">
 
 Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fazer o download do Vuforia Engine.
 
@@ -112,9 +112,3 @@ public class Movimento : MonoBehaviour
 **Para definir a velocidade da rotação, dentro do unity, adicione um script com o texto acima e nas opções: X, Y, Z, coloque a velocidade desejada**
 
 <img src="https://i.ibb.co/Dg1PZmd/rota-o.png" alt="rota-o" border="0">
-
-
-
-
-
-<img src="https://i.ibb.co/y60N0yw/gif2-gif.gif" alt="gif2-gif" border="0" />
