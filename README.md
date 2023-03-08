@@ -6,7 +6,7 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
 
 <img width="450" src="https://i.ibb.co/zPXGT5j/vuforia-unity-logo.png" alt="vuforia-unity-logo" border="0" />
 
-<img src="https://i.ibb.co/P1rQJ3g/gif-do-caramba.gif" alt="gif-do-caramba" border="0">
+<img src="https://[i.ibb.co/P1rQJ3g/gif-do-caramba.gif" alt="gif-do-caramba](https://ibb.co/Dw1pmsQ)" border="0">
 
 Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fazer o download do Vuforia Engine.
 
