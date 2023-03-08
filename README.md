@@ -112,3 +112,9 @@ public class Movimento : MonoBehaviour
 **Para definir a velocidade da rotação, dentro do unity, adicione um script com o texto acima e nas opções: X, Y, Z, coloque a velocidade desejada**
 
 <img src="https://i.ibb.co/Dg1PZmd/rota-o.png" alt="rota-o" border="0">
+
+
+
+
+
+<img src="https://i.ibb.co/y60N0yw/gif2-gif.gif" alt="gif2-gif" border="0" />
