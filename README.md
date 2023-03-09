@@ -6,6 +6,11 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
 
 <img width="450" src="https://i.ibb.co/zPXGT5j/vuforia-unity-logo.png" alt="vuforia-unity-logo" border="0" />
 
+<!-- <p>
+  <img src="gif do caramba.gif" width="598" height="336">
+</p>>
+ -->
+
  <p>
   <img src="https://i.ibb.co/P1rQJ3g/gif-do-caramba.gif" alt="gif-do-caramba" border="0"  width="598" height="336">
 </p>
