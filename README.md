@@ -10,9 +10,9 @@ A combinação entre Unity e Vuforia oferece uma solução altamente eficaz para
   <img src="gif do caramba.gif" width="598" height="336">
 </p>>
  -->
-a
+aa
  <p>
-  <img src="https://i.ibb.co/P1rQJ3g/gif-do-caramba.gif" alt="gif-do-caramba" border="0" width="598" height="336">
+  <img src="[img]https://i.ibb.co/P1rQJ3g/gif-do-caramba.gif[/img]" alt="gif-do-caramba" border="0" width="598" height="336">
 </p>
 
 Para desenvolver um aplicativo semelhante ao mencionado acima, é necessário fazer o download do Vuforia Engine.
